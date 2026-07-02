@@ -10,3 +10,8 @@
 - Html
 - Coding
 - Gamer
+- Word
+- Excel
+- PowerPoint
+- Canva
+- Css
