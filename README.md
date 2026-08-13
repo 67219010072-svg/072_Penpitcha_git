@@ -30,5 +30,3 @@
 - Reading
 - Coding
 - Play games
-
-Nothing
